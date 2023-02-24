@@ -8,9 +8,10 @@ interface Props {
 
 const AvatarGroup = ({ size, maxLength }: Props) => {
   const showedPeople = PEOPLE.slice(0, maxLength)
-  const remainingPeople = PEOPLE.length - showedPeople.length
 
   if (!showedPeople) return null
+
+  const remainingPeople = PEOPLE.length - showedPeople.length
 
   return (
     <div className="flex -space-x-3">
