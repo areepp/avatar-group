@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Tomi Budi",
+    "initial": "TM",
+    "imageSrc": "/profile-picture.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cahya",
+    "initial": "CH",
+    "imageSrc": ""
+  },
+  {
+    "id": 3,
+    "name": "Sri Mulyani",
+    "initial": "SM",
+    "imageSrc": "/profile-picture.jpg"
+  }
+]
